@@ -7,3 +7,5 @@ It takes input from the user as keyboard button presses, button presses on the T
 It simulates the game and renders the game in the terminal by printing characters and using ANSI Escape Sequences.
 
 ![image](https://github.com/Enoch-Anderson/Breakout/assets/123046236/a07f6857-e7eb-419d-a225-3d13ba8fab6f)
+
+![image](https://github.com/Enoch-Anderson/Breakout/assets/123046236/b62752b3-e5a9-44f7-8757-32ed82fec5ed)
