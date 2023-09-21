@@ -1,0 +1,7 @@
+"./lab7.obj"
+"./lab7library.obj"
+"./main.obj"
+"./testFile.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
